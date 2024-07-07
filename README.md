@@ -1,4 +1,4 @@
-# HR_Analytics_Dashboard
+# HR_Analytics_Dashboard_PowerBI
  Utilized Power BI to create an HR Analytics Dashboard aimed at enhancing employee
  performance and reducing attrition. Gathered, cleaned and analyzed data from publicly available HR datasets
  to identify trends in employee attrition and performance. Provided actionable insights through the dashboard,
